@@ -1,38 +1,28 @@
 # Automação Ansible
 
-## Idiomas
+**Idiomas:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-[![Automação Ansible](https://course-cover.labex.io/ansible-automation.png?lang=pt)](https://labex.io/pt/courses/ansible-automation)
-
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/pt/courses/ansible-automation)
+<p align="center">
+  <a href="https://labex.io/pt/courses/ansible-automation">
+    <img src="https://course-cover.labex.io/ansible-automation.png?lang=pt" alt="Automação Ansible">
+  </a>
+</p>
 
 Aprenda Automação Ansible. Este módulo abrange Instalação e Inventário, Comandos Ad-hoc, Escrevendo Seu Primeiro Playbook, Variáveis e Templates, Organização com Roles. Você dominará estas habilidades essenciais de Linux através de laboratórios práticos e desafios do mundo real.
 
-![devops-engineer](https://img.shields.io/badge/devops-engineer-whitesmoke?style=for-the-badge&logo=devops-engineer)
-![ansible](https://img.shields.io/badge/ansible-whitesmoke?style=for-the-badge&logo=ansible)
-![devops](https://img.shields.io/badge/devops-whitesmoke?style=for-the-badge&logo=devops)
-![linux](https://img.shields.io/badge/linux-whitesmoke?style=for-the-badge&logo=linux)
-
+[Iniciar curso no LabEx](https://labex.io/pt/courses/ansible-automation)
 
 ## Exercícios
 
-|   Índice | Nome                                | Dificuldade   | Prática                                                                                                                         |
-|----------|-------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🧩 🆓 Instalação e Inventário         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/installation-and-inventory-636563?course=ansible-automation'>Iniciar Lab</a>  |
-|        2 | 🧩  Escrevendo seu Primeiro Playbook | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/writing-your-first-playbook-636566?course=ansible-automation'>Iniciar Lab</a> |
-|        3 | 🧩 🆓 Variáveis e Templates           | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/variables-and-templates-636565?course=ansible-automation'>Iniciar Lab</a>     |
-|        4 | 🧩 🆓 Organizando com Roles           | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/organizing-with-roles-636564?course=ansible-automation'>Iniciar Lab</a>       |
-|        5 | 🎯  Implantação de Full Stack        | Intermediário | <a target='_blank' href='https://labex.io/pt/labs/full-stack-deployment-636745?course=ansible-automation'>Iniciar Desafio</a>   |
+|   Índice | Nome                             | Dificuldade   | Prática                                                                                                                         |
+|----------|----------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------|
+|        1 | Instalação e Inventário          | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/installation-and-inventory-636563?course=ansible-automation'>Iniciar Lab</a>  |
+|        2 | Escrevendo seu Primeiro Playbook | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/writing-your-first-playbook-636566?course=ansible-automation'>Iniciar Lab</a> |
+|        3 | Variáveis e Templates            | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/variables-and-templates-636565?course=ansible-automation'>Iniciar Lab</a>     |
+|        4 | Organizando com Roles            | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/organizing-with-roles-636564?course=ansible-automation'>Iniciar Lab</a>       |
+|        5 | Implantação de Full Stack        | Intermediário | <a target='_blank' href='https://labex.io/pt/labs/full-stack-deployment-636745?course=ansible-automation'>Iniciar Desafio</a>   |
 
-## Sobre LabEx
+## About LabEx
 
-[LabEx](https://labex.io) é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, [LabEx](https://labex.io) oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
-
-## Mais
-
-- 🔗 [DevOps Engineer Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [DevOps Engineer Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [DevOps Engineer Tutoriais Gratuitos](https://github.com/labex-labs/devops-engineer-free-tutorials)
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
